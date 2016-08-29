@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Tasks\University\1\Alpro\TugasBesar\Program\ProjectLaundry.dp
+Name=ProjectLaundry
+MainUnit=D:\Tasks\University\1\Alpro\TugasBesar\Program\ProgramLaundry.pas
+UnitCount=1
+ResFiles=D:\Tasks\University\1\Alpro\TugasBesar\Program\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\Tasks\University\1\Alpro\TugasBesar\Program\ProgramLaundry.pas
+FileTime=1178966555
